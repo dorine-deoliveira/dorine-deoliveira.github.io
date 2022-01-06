@@ -1736,7 +1736,6 @@ input::-moz-focus-inner {
 }
 
 .ma-presentation-grid {
-  background-image: url(../images/pattern-dot-grid.svg);
   background-size: 24px 24px;
   opacity: .15;
   position: absolute;
@@ -2279,7 +2278,6 @@ input::-moz-focus-inner {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-image: url(../images/mes-competences-bg.jpg);
   color: rgba(255, 255, 255, 0.7);
   position: relative;
 }
